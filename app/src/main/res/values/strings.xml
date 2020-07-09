@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string name="title_add">Tambah</string>
+    <string name="title_name">Nama</string>
+    <string name="title_gandre">Jenis Kelamin</string>
+    <string name="title_man">Laki-Laki</string>
+    <string name="title_woman">Perempuan</string>
+    <string name="title_tmp_lahir">Tempat Lahir</string>
+    <string name="title_tgl_lahir">Tanggal Lahir</string>
+    <string name="title_save">Simpan</string>
+    <string name="foo">Lorem Ipsum</string>
+</resources>
